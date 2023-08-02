@@ -1,4 +1,4 @@
-## README: English-French Machine Translation Project
+# Machine Translation using seq2seq model and attention mechanisms
 
 ### Description:
 This project focuses on automating the translation of French to English texts using deep learning models, specifically Seq2Seq with attention mechanisms. It encompasses the entire workflow, from data preparation to tokenization, and through to text vectorization and model training.
